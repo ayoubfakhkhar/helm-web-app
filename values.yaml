@@ -1,0 +1,11 @@
+replicaCount: 1
+image:
+  repository: nginx
+  pullPolicy: IfNotPresent
+  tag: stable
+service:
+  port: 80
+
+
+
+
