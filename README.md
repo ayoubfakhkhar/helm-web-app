@@ -7,7 +7,7 @@ This repository contains a Helm chart that deploys a web application on Kubernet
 Before you begin, ensure you have the following installed:
 
 - Kubernetes cluster (minikube, GKE, EKS, etc.)
-- Helm ([Install Helm](https://helm.sh/docs/intro/install/))
+- Helm ([Install Helm](https://helm.sh/docs/intro/install/)).
 
 ## Getting Started
 
